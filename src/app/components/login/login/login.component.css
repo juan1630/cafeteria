@@ -1,0 +1,13 @@
+.text-login {
+    color: #001672;
+    font-size: 35px;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    font-weight: 500;
+    font-size: 1.5rem;
+    border-radius: 15 !important;
+    /* // box-shadow: 0.1rem 0.1rem 0.4rem 0.1rem !important; */
+}
